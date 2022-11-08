@@ -13,14 +13,21 @@
   
   
   created directory and .c file.
+  
   <img width="326" alt="cmpe_directory" src="https://user-images.githubusercontent.com/59603371/200457621-a50a00f7-436d-4433-9451-4fa86380ce0f.PNG">
+  
+  
 
   installed linux headers.
-  <img width="836" alt="cmpe_make" src="https://user-images.githubusercontent.com/59603371/200457501-cb724dc1-d07c-46b5-9806-107382690a71.PNG">
+  
+   <img width="836" alt="cmpe_make" src="https://user-images.githubusercontent.com/59603371/200457501-cb724dc1-d07c-46b5-9806-107382690a71.PNG">
+
 
 
    displayed vmx capabilities using dmesg command.
-<img width="726" alt="cmpe_output" src="https://user-images.githubusercontent.com/59603371/200456884-9e04cb2b-17da-474b-acc7-e2fa6b0f4aa3.PNG">
+   
+      
+  <img width="726" alt="cmpe_output" src="https://user-images.githubusercontent.com/59603371/200456884-9e04cb2b-17da-474b-acc7-e2fa6b0f4aa3.PNG">
 
   <img width="472" alt="cmpe_output2" src="https://user-images.githubusercontent.com/59603371/200456975-417091e8-f22d-4a6f-9792-b0ebcb5d59fe.PNG">
 
